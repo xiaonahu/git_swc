@@ -54,3 +54,4 @@ class(mmimjfijsa)
 is vector(mmimjfijsa)
 is.vector(mmimjfijsa)
 library(ggplot2)
+1 + 1
