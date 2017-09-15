@@ -53,4 +53,4 @@ mmimjfijsa <- c(1, 2, 'f')
 class(mmimjfijsa)
 is vector(mmimjfijsa)
 is.vector(mmimjfijsa)
-11
+library(ggplot2)
